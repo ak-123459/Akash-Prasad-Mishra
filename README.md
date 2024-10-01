@@ -1,6 +1,9 @@
 <p align="left">
-  <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100" />
-  <strong>Akash Prasad Mishra</strong>
+  <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100"
+      <strong>Akash Prasad Mishra</strong>
+
+    
+    />
 </p>
 
 
