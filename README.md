@@ -46,33 +46,34 @@
 <div id="badges" align="center">
 
 
-  <a href="">
+  <a >
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
   
-    <a href="https://www.kaggle.com/akashmishraaa">
+    <a >
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Kaggle"/>
   </a>
 
 
-  <a href="https://www.facebook.com/profile.php?id=100005612926530">
+  <a>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Facebook"/>
   </a>
   
-  <a href="https://www.kaggle.com/akashmishraaa">
+  <a >
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 
-  <a href="https://www.kaggle.com/akashmishraaa">
+
+  <a >
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Kaggle"/>
   </a>
 
-  <a href="https://www.kaggle.com/akashmishraaa">
+  <a >
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Kaggle"/>
   </a>
 
-  <a href="https://www.kaggle.com/akashmishraaa">
+  <a >
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Kaggle"/>
   </a>
 
