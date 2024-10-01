@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://ibb.co/0Bzb6qg" alt="Logo" width="200" style="border-radius: 20%;" />
+  <img src="https://postimg.cc/hhCxzp85" alt="Logo" width="200" style="border-radius: 20%;" />
 </p>
 
 
