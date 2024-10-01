@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Logo" width="100" style="border-radius: 20%;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
 </p>
 
