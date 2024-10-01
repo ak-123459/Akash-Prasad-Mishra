@@ -95,7 +95,7 @@ Data Science Intern,Data Analytics Intern
 <div id="badges" align="center">
 
   <a >
-    <img src=" https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1"/>
+    <img src="https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1"/>
   </a>
 
 </div>
