@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/gkpK77xm/github-header-image.png" alt="Logo" width="200" style="border-radius: 20%;" />
+  <img src="https://i.postimg.cc/gkpK77xm/github-header-image.png" alt="Logo" width="1000" style="border-radius: 20%;" />
 </p>
 
 
