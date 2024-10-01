@@ -32,11 +32,6 @@
    </div>
 
 
-<div id="badges" align="center">
-<a >
-    <img src="https://img.shields.io/github/downloads/{ak-123459}/{repo-name}/total.svg" alt="downloads"/>
-  </a>
-</div>
    
  
 
