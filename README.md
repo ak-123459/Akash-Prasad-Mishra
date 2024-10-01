@@ -31,7 +31,7 @@
 
 <div id="badges" align="start">
 <a >
-    <img src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg" alt="downloads"/>
+    <img src="https://img.shields.io/github/downloads/{Akash Prasad Mishra}/{repo-name}/total.svg" alt="downloads"/>
   </a>
 </div>
    
