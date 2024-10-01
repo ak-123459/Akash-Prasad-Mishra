@@ -92,15 +92,15 @@ Data Science Intern,Data Analytics Intern
 
 ## Enterprise 💼
 
-<div id="badges" align="center">
+<div id="badges" align="start">
 
   <a >
-    <img src="https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1"/>
+    <img src="https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1" width="100"/>
   </a>
 
 
   <a >
-    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1"/>
+    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="100"/>
   </a>
 </div>
 
