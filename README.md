@@ -1,7 +1,9 @@
 <p align="left">
   <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100" />
-  <strong>Your Project Name</strong>
+  <strong>Akash Prasad Mishra</strong>
 </p>
+
+[A1-Logo.jpg](https://postimg.cc/V59C8HM0)
 
 ##  Data - the way of solution
 <div id="header" align="center">
