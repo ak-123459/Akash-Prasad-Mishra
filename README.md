@@ -10,7 +10,6 @@
 </p>
 
 
-<p align="center"    <strong >Your Project Name </strong>
 
 
 
