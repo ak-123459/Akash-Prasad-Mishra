@@ -3,8 +3,11 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
+  
+    <br><br> <!-- Add extra line breaks for more space -->
+
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
 
 </p>
