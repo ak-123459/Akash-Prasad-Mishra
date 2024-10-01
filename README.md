@@ -3,7 +3,7 @@
   <img src=https://i.postimg.cc/Z5FPx5fm/data-analysis-icon-icons-com-52842.png" alt="Logo" width="100" style="border-radius: 20%;" />
 </p>
 
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
+<div style="position: absolute; top: 0; left: 200; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
     Your Text
   </div>
 
