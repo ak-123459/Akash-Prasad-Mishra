@@ -73,14 +73,14 @@ my hobbies are research,watching movies,play cricket.
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Kaggle"/>
   </a>
 
+</div>
 
 ## Personal Skills ●
 
-Problem solving,Creative,self-motivated,positive
+🧩Problem solving,💡Creative,💯self-motivated,✨positive
 
 
 
-</div>
  
 
 
