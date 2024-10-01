@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://ibb.co/1d77psk" alt="Logo" width="100"/>
-<span style="font-size: 30px; margin-left: 20px;"Akash Prasad Mishra</span>
+<span style="font-size: 30px; margin-left: 20px "Akash Prasad Mishra</span>
 </p>
 ##  Data - the way of solution
 <div id="header" align="center">
