@@ -29,13 +29,15 @@
     <img src="https://img.shields.io/github/followers/{Akash Prasad Mishra}.svg?style=social&label=Follow&maxAge=2592000" alt="follower"/>
   </a>
 
-<div id="badges" align="start">
+   </div>
+
+
+<div id="badges" align="center">
 <a >
-    <img src="https://img.shields.io/github/downloads/{Akash Prasad Mishra}/{repo-name}/total.svg" alt="downloads"/>
+    <img src="https://img.shields.io/github/downloads/{ak-123459}/{repo-name}/total.svg" alt="downloads"/>
   </a>
 </div>
    
- </div>
  
 
 
