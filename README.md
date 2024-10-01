@@ -9,10 +9,10 @@
   </a>
   <a href="https://www.facebook.com/profile.php?id=100005612926530">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a><br><br>
+  </a>
   
-  <a href="https://www.facebook.com/profile.php?id=100005612926530">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.kaggle.com/akashmishraaa">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </div>
 
