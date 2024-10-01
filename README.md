@@ -26,7 +26,8 @@
 
  ## About
 
-Welcome to my project! This repository contains [project name], a [brief description of the project] aimed at [purpose or problem it solves]. 
+ Hi, Iam Akash Prasad Mishra.Iam a good data specialist.aslo well know about machine learning,deep learning,and statatics.Iam also a software engineer.
+ I have completed my bachelor of technology in computer science from eklavya university.I always passionate for task related to data.
 
 
 
