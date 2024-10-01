@@ -33,6 +33,8 @@
   </a>
  </div>
 
+ <br> <br>
+
  ## About ●
 
  Hi, I'am Akash Prasad Mishra.I'am a data science intern,well skilled in machine learning,deep learning,and statatics.Iam also experience in software 
@@ -40,6 +42,7 @@
  I have completed my bachelor of technology in the field of computer science from eklavya university.I always passionate and love❤️ to solve the problem and  task related to data.
 my hobbies are research,watching movies,play cricket.
 
+ <br> <br>
 
 
 ## Technical Skills ●
@@ -74,6 +77,8 @@ my hobbies are research,watching movies,play cricket.
   </a>
 
 </div>
+
+ <br> <br>
 
 ## Personal Skills ●
 
