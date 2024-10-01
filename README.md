@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"    <strong style="color: #ff6347;">Your Project Name</strong>
+<p align="center"    <strong >Your Project Name </strong>
 
 
 
