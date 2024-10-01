@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100" style="border-radius: 50%;" />
+  <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100" style="border-radius: 20%;" />
   <strong>Your Project Name</strong>
 </p>
