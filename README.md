@@ -15,13 +15,14 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 
-  <br> <br>
+  </div>
+
+
    <a href="https://huggingface.co/AkashPrasadMishra">
     <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg" alt="Huggingface"/>
   </a>
   
 
-</div>
 
 
 
