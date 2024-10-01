@@ -3,7 +3,6 @@
   <strong>Akash Prasad Mishra</strong>
 </p>
 
-[A1-Logo.jpg](https://postimg.cc/V59C8HM0)
 
 ##  Data - the way of solution
 <div id="header" align="center">
