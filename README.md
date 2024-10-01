@@ -12,6 +12,7 @@
 
 
 <div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/akash-prasad-mishra-85a4991b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -49,9 +50,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="tensorflow"/>
   </a>
   
-    <a >
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="kaggle"/>
-  </a>
 
 
   <a>
