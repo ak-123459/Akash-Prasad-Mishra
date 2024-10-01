@@ -3,6 +3,14 @@
 </p>
 
 
+
+<p align="center">
+  <img src="https://ibb.co/0Bzb6qg" alt="Logo" width="200" style="border-radius: 20%;" />
+</p>
+
+
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/akash-prasad-mishra-85a4991b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
