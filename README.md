@@ -10,9 +10,8 @@
 </p>
 
 
-<p align="center"  <strong>Your Project Name</strong>>
+<p align="center"  <strong>Your Project Name</strong>
 
- 
 
 
   
