@@ -1,11 +1,10 @@
 <p align="left">
   <img src="https://i.postimg.cc/BZkc2rnp/A1-Logo.jpg" alt="Logo" width="100"
     />
-<strong>Akash Prasad Mishra</strong>
+<span style="font-size: 24px; font-weight: bold;">Your Project Name</span>
 
 </p>
 
-<span style="font-size: 24px; font-weight: bold;">Your Project Name</span>
 
 
 
