@@ -100,7 +100,7 @@ Data Science Intern,Data Analytics Intern
 
 
   <a >
-    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="100"/>
+    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="70"/>
   </a>
 </div>
 
