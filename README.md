@@ -26,9 +26,9 @@
 
  ## About
 
- Hi, Iam Akash Prasad Mishra.Iam a well data specialist.also well skilled in machine learning,deep learning,and statatics.Iam also experience in software 
+ Hi, I'am Akash Prasad Mishra.I'am a data science intern,well skilled in machine learning,deep learning,and statatics.Iam also experience in software 
  development.
- I have completed my bachelor of technology in computer science from eklavya university.I always passionate and love❤️ to solve the problem and  task related to data.
+ I have completed my bachelor of technology in the field of computer science from eklavya university.I always passionate and love❤️ to solve the problem and  task related to data.
 
 
 
