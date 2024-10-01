@@ -32,7 +32,7 @@
   </a>
  </div>
 
- ## About ➤
+ ## About 🔵
 
  Hi, I'am Akash Prasad Mishra.I'am a data science intern,well skilled in machine learning,deep learning,and statatics.Iam also experience in software 
  development.
@@ -40,7 +40,7 @@
 
 
 
-## Skills ➤
+## Skills 🔵
 
 
 
