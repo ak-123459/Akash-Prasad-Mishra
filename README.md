@@ -24,6 +24,11 @@
   </a>
  </div>
 
+ ## About
+
+Welcome to my project! This repository contains [project name], a [brief description of the project] aimed at [purpose or problem it solves]. 
+
+
 
 
 
