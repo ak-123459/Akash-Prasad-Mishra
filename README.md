@@ -13,5 +13,15 @@
 </p>
 
 
+<p align="left">
+  <div style="margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo 1" width="100" style="border-radius: 50%;" />
+  </div>
+  <div>
+    <img src="[https://your-logo-url.com/logo2.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Logo 2" width="100" style="border-radius: 50%;" />
+  </div>
+</p>
+
+
 
 
