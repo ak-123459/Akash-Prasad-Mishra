@@ -18,7 +18,7 @@
   <br><br>
 
    <a href="https://huggingface.co/AkashPrasadMishra">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-xl.svg" alt="Huggingface"/>
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg" alt="Huggingface"/>
   </a>
   
 
