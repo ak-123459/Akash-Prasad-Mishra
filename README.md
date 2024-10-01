@@ -83,10 +83,25 @@ my hobbies are research,watching movies,play cricket.
 ## Personal Skills ●
 
 🧩Problem solving,💡Creative,💯self-motivated,✨positive
+ <br> <br>
+
+## Work Expereince ●
+
+Data Science Intern,Data Analytics Intern
+
+
+## Enterprise 
+
+<div id="badges" align="center">
+
+  <a >
+    <img src=" https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1"/>
+  </a>
+
+</div>
 
 
 
- 
 
 
 
