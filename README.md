@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="100"/>
+  <img src="https://ibb.co/1d77psk" alt="Logo" width="100"/>
 <span style="font-size: 30px; margin-left: 20px;"Akash Prasad Mishra</span>
 </p>
 ##  Data - the way of solution
