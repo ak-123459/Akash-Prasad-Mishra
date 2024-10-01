@@ -1,6 +1,10 @@
-                                               # Data - The Way Of Solution
+# Data - The Way Of Solution
 <p align="center">
   <img src=https://i.postimg.cc/Z5FPx5fm/data-analysis-icon-icons-com-52842.png" alt="Logo" width="200" style="border-radius: 20%;" />
+</p>
+
+<p align="center">
+  <strong  "Hello" </strong>  alt="Logo" width="200" style="border-radius: 20%;" />
 </p>
 
 
