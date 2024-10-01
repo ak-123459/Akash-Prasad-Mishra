@@ -26,10 +26,13 @@
 
  ## About
 
- Hi, Iam Akash Prasad Mishra.Iam a good data specialist.aslo well know about machine learning,deep learning,and statatics.Iam also a software engineer.
- I have completed my bachelor of technology in computer science from eklavya university.I always passionate to solve the problem and also task related to data.
+ Hi, Iam Akash Prasad Mishra.Iam a well data specialist.also well skilled in machine learning,deep learning,and statatics.Iam also experience in software 
+ development.
+ I have completed my bachelor of technology in computer science from eklavya university.I always passionate and love❤️ to solve the problem and  task related to data.
 
 
+
+## Skills
 
 
 
