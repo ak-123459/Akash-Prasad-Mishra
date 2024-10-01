@@ -13,11 +13,12 @@
 </p>
 
 
-<p align="center">
-  <div style="margin-bottom: 10px;">
+<p align="center" style="margin-bottom: 10px;">
+  <div >
     
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo 1" width="100" style="border-radius: 50%;" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo 2" width="100" style="border-radius: 50%;" />
+    
   </div>
 </p>
 
