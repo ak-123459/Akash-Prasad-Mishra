@@ -5,16 +5,13 @@
 
 <p align="center" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
-  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
+
     <br><br> 
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="100" style="border-radius: 20%;" />
 
 </p>
 
-
-
-</p>
 
 
 
