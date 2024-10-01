@@ -90,7 +90,7 @@ my hobbies are research,watching movies,play cricket.
 Data Science Intern,Data Analytics Intern
 
 
-## Enterprise 
+## Enterprise 💼
 
 <div id="badges" align="center">
 
@@ -98,7 +98,13 @@ Data Science Intern,Data Analytics Intern
     <img src="https://i.postimg.cc/cChFxqCq/o8kbrb7mufliqmjfulkx.jpg" alt="ent1"/>
   </a>
 
+
+  <a >
+    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1"/>
+  </a>
 </div>
+
+
 
 
 
