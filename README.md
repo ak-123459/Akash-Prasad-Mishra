@@ -42,7 +42,7 @@ my hobbies are research,watching movies,play cricket.
 
 
 
-## Skills ●
+## Technical Skills ●
 
 
 <div id="badges" align="center">
@@ -74,6 +74,9 @@ my hobbies are research,watching movies,play cricket.
   </a>
 
 
+## Personal Skills ●
+
+Problem solving,Creative,self-motivated,positive
 
 
 
