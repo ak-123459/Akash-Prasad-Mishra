@@ -108,6 +108,19 @@ Data Science Intern,Data Analytics Intern
 
 
 
+## Feedback 💼
+
+<div id="badges" align="start">
+
+
+  <a >
+    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="70"/>
+    
+  </a>
+
+
+  
+</div>
 
 
 
