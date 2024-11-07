@@ -114,8 +114,7 @@ Data Science Intern,Data Analytics Intern
 
 
   <a >
-    <img src="https://i.postimg.cc/j5XHNHbP/unnamed.jpg" alt="ent1" width="70"/>
-    
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ent1" width="70" />
   </a>
 
   
