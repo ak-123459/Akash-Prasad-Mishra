@@ -85,10 +85,14 @@ my hobbies are research,watching movies,play cricket.
 🧩Problem solving,💡Creative,💯self-motivated,✨positive
  <br> <br>
 
+
+ <br> <br>
+
 ## Work Expereince ●
 
 Data Science Intern,Data Analytics Intern
 
+ <br> <br>
 
 ## Enterprise 💼
 
@@ -104,6 +108,9 @@ Data Science Intern,Data Analytics Intern
   </a>
 </div>
 
+
+
+ <br> <br>
 
 
 
